@@ -1,3 +1,20 @@
+# Requisitos de Sistema
+Apenas acesso a internet.
+
+# Linguagens e Versões
+Foi utilziaod neste projetos linguagem como Js, css , Htmle React
+
+# Funcionabilidade Principal
+Este projeto tem intuído de demonstra minhas principais skills relacionada a área de desenvolvimento Front -end e contar um poucos dos meus porjetos.
+
+# Descrição de cada página 
+
+Este projeto possui uma apresentação sobre mim e sobre meus principais projetos desenvolvidos nesse início de carreira.
+
+Nele é possível ver alguns dos meus projetos finalizados.
+
+Possui acesso às minhas principais rede de comunicação: Intsgran, Linkdin e Github;
+
 # Getting Started with Create React App
 Inicaindo
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
