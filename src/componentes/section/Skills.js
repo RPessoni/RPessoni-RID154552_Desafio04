@@ -4,6 +4,7 @@ import css from '../image/skill/css.svg'
 import html from '../image/skill/html.svg'
 import react from '../image/skill/react.svg'
 import ts from '../image/skill/ts.svg'
+import js from '../image/skill/js.svg'
 function Skills (){
     return(
         <div className={style.skills} id='Skills'>
@@ -18,6 +19,7 @@ function Skills (){
                 <img src={html}></img>
                 <img src={react}></img>
                 <img src={ts}></img>
+                <img src={js}></img>
             </div>
         </div>
     )
