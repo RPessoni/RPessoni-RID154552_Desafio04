@@ -12,7 +12,7 @@
 }
 .btn:hover{
     color: aliceblue;
-    background-color:#010b28 ;
+    background-color:aqua ;
     transition-duration: 0.5s;
     transform: translateY(-7px);
 }
